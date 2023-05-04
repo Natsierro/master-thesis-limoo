@@ -2,6 +2,7 @@
 Two datasets have been used in this master thesis.
 
 Instacart transactions is the dataset that was open-sourced by Instacart in 2017. It was found on the following Kaggle link: https://www.kaggle.com/datasets/yasserh/instacart-online-grocery-basket-analysis-dataset?select=order_products__train.csv
+Due to the size of the datasets, they are not uploaded on the Github.
 
 Statistics housings is the dataset that is open-sourced by the Swiss Federal Office for Statistics and was found on the following link: https://www.bfs.admin.ch/bfs/en/home/services/geostat/swiss-federal-statistics-geodata/population-buildings-dwellings-persons/buildings-dwellings-from-2010.html
 
