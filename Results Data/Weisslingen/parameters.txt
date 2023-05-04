@@ -1,0 +1,1 @@
+{"lat": 47.42964, "lng": 8.74184, "size": 25, "share_users": 0.1, "max_housing": 100, "min_housing": 10, "max_distance": 1, "name": "Weisslingen"}

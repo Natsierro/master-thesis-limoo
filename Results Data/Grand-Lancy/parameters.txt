@@ -1,0 +1,1 @@
+{"lat": 46.17921, "lng": 6.10743, "size": 1, "share_users": 0.1, "max_housing": 100, "min_housing": 10, "max_distance": 1, "name": "Grand-Lancy"}

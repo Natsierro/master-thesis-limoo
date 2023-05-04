@@ -1,0 +1,5 @@
+basket.csv filter=lfs diff=lfs merge=lfs -text
+order_products__prior.csv filter=lfs diff=lfs merge=lfs -text
+orders.csv filter=lfs diff=lfs merge=lfs -text
+orders_products.csv filter=lfs diff=lfs merge=lfs -text
+GWS2021.csv filter=lfs diff=lfs merge=lfs -text
